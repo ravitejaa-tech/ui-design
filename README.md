@@ -1,23 +1,23 @@
-Developed an UI using Angular Ionic framework, HTML, CSS for IPhone models 6/7/8 
-
-#Install the Ionic CLI
-
+<p><h2>Install the Ionic CLI </h2>
 Before proceeding, make sure the latest version of Node.js and npm are installed. See Environment Setup for details. Install the Ionic CLI globally with npm:
 
 npm install -g ionic
 
-#Start an App
-
+</p>
+<p><h2> Start an App </h2>
 Create an Ionic app using one of the pre-made app templates, or a blank one to start fresh. The three most common starters are the blank starter, tabs starter, and sidemenu starter. Get started with the ionic start command:
 
-Ionic start myApp tabs
+ionic start ProjectName
 
-#Run the App
-
+</p>
+<p>
+<h2>Run the App</h2>
 The majority of Ionic app development can be spent right in the browser using the ionic serve command:
 
-cd myApp
+cd ProjectName
 ionic serve
 
+</p>
 
-To run the application clone this project using (git clone https://github.com/ravitejaa-tech/ui-design.git) and replace src folder with the cloned src folder
+<h3>Output of the User Interface</h3>
+<img src="ui.png" alt="User Interface">
