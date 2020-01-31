@@ -19,5 +19,5 @@ ionic serve
 
 </p>
 
-<h3>Output of the User Interface</h3>
-<img src="ui.png" alt="User Interface">
+<h3>Output:</h3>
+<img src="https://github.com/ravitejaa-tech/ui-design/blob/master/src/pages/home/ui.png" alt="User Interface">
