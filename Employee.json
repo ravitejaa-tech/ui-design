@@ -1,0 +1,62 @@
+[
+  {
+    "EmployeeID": 1,
+    "Name": "Timmie Hess",
+    "Designation": "Legal Assistant",
+    "Hobbies": "Cricket"
+  },
+  {
+    "EmployeeID": 2,
+    "Name": "Lizette Mustin",
+    "Designation": "Compensation Analyst",
+    "Hobbies": "Tennis"
+  },
+  {
+    "EmployeeID": 3,
+    "Name": "Finley Facey",
+    "Designation": "Graphic Designer",
+    "Hobbies": "Hockey"
+  },
+  {
+    "EmployeeID": 4,
+    "Name": "Sauncho Guise",
+    "Designation": "Clinical Specialist",
+    "Hobbies": "Reading"
+  },
+  {
+    "EmployeeID": 5,
+    "Name": "Heall Guiel",
+    "Designation": "Senior Quality Engineer",
+    "Hobbies": "Movies"
+  },
+  {
+    "EmployeeID": 6,
+    "Name": "Maurene Martindale",
+    "Designation": "VP Quality Control",
+    "Hobbies": "Football"
+  },
+  {
+    "EmployeeID": 7,
+    "Name": "Bernardo Gidley",
+    "Designation": "Pharmacist",
+    "Hobbies": "Cricket"
+  },
+  {
+    "EmployeeID": 8,
+    "Name": "Ronni Binding",
+    "Designation": "VP Quality Control",
+    "Hobbies": "Badminton"
+  },
+  {
+    "EmployeeID": 9,
+    "Name": "Kitty Spier",
+    "Designation": "Research Nurse",
+    "Hobbies": "Tennis"
+  },
+  {
+    "EmployeeID": 10,
+    "Name": "Susanne Faulkner",
+    "Designation": "Geological Engineer",
+    "Hobbies": "Cricket"
+  }
+]
